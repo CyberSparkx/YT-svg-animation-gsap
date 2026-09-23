@@ -1,0 +1,1 @@
+gsap.to("#lamp_id", { duration: 1, morphSVG: "#path1" });
